@@ -1,0 +1,3 @@
+#git-help" > git-help.txt
+echo #git-init > git-init.txt
+echo '#git-help
